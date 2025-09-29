@@ -1,0 +1,45 @@
+problem,leetcode_num,category,difficulty,description
+Two Sum,#1,Array/Hash Table,Easy,Find indices of two numbers in an array that add up to a specific target
+Roman to Integer,#13,String,Easy,Convert a Roman numeral string to its integer value
+Valid Parentheses,#20,Stack,Easy,Determine if the input string has valid matching parentheses
+Same Tree,#100,Tree,Easy,Check if two binary trees are identical in structure and node values
+Symmetric Tree,#101,Tree,Easy,Determine if a binary tree is symmetric around its center
+Best Time to Buy and Sell Stock,#121,Array,Easy,Find the maximum profit from buying and selling a stock once
+Valid Palindrome,#125,String/Two Pointers,Easy,Check if a string is a palindrome
+Maximum Depth of Binary Tree,#104,Tree,Easy,Find the maximum depth of a binary tree
+Climbing Stairs,#70,Dynamic Programming,Easy,Count ways to climb stairs with 1 or 2 steps at a time
+Diameter of Binary Tree,#543,Tree,Easy,Find the diameter (longest path) of a binary tree
+Trapping Rain Water,#42,Array/Two Pointers,Medium,Calculate how much rainwater can be trapped
+Product of Array Except Self,#238,Array,Medium,Return array where each element is product of all other elements
+Capacity to Ship Packages Within D Days,#1011,Binary Search,Medium,Find minimum ship capacity to ship packages within D days
+Group Anagrams,#49,Hash Table/String,Medium,Group strings that are anagrams of each other
+Number of Islands,#200,Graph/DFS,Medium,Count the number of islands in a 2D grid
+Clone Graph,#133,Graph,Medium,Clone a connected undirected graph
+Coin Change,#322,Dynamic Programming,Medium,Find minimum coins needed to make change for amount
+Longest Increasing Subsequence,#300,Dynamic Programming,Medium,Find length of longest increasing subsequence
+Maximum Subarray,#53,Array/Dynamic Programming,Medium,Find the contiguous subarray with largest sum
+Valid Anagram,#242,Hash Table/String,Medium,Check if two strings are anagrams
+Invert Binary Tree,#226,Tree,Medium,Invert a binary tree
+Word Break,#139,Dynamic Programming,Medium,Check if string can be segmented using dictionary words
+Kth Largest Element in a Stream,#703,Heap,Medium,Design class to find kth largest element in stream
+Minimum Number of Platforms Required,GFG,Greedy/Sorting,Medium,Find minimum platforms needed at railway station
+Kth Smallest Element in Row-Column Sorted Matrix,#378,Binary Search/Heap,Medium,Find kth smallest element in sorted matrix
+Course Schedule II,#210,Graph/Topological Sort,Medium,Find order to finish courses given prerequisites
+Longest Palindromic Substring,#5,String/Dynamic Programming,Medium,Find the longest palindromic substring
+LFU Cache,#460,Design/Hash Table,Hard,Design and implement Least Frequently Used cache
+Merge k Sorted Lists,#23,Linked List/Heap,Hard,Merge k sorted linked lists
+Edit Distance,#72,Dynamic Programming,Hard,Find minimum operations to convert one string to another
+Shortest Path Visiting All Nodes,#847,Graph/BFS,Hard,Find shortest path that visits all nodes
+Count Inversions,GFG,Array/Merge Sort,Hard,Count number of inversions in array
+Celebrity Problem,GFG,Graph/Matrix,Medium,Find the celebrity in a group
+Josephus Problem,GFG,Recursion/Math,Medium,Find survivor in circle elimination game
+Minimum Parentheses to Make Valid,#921,Stack/String,Easy,Find minimum parentheses to add for valid string
+Next Greater Element,#496,Stack,Easy,Find next greater element for each element
+Stock Span Problem,#901,Stack,Medium,Find span of stock price for each day
+Assembly Line Scheduling,GFG,Dynamic Programming,Medium,Find fastest way through assembly line
+Rotate Matrix by 90 Degrees,#48,Matrix,Medium,Rotate NxN matrix 90 degrees clockwise
+Convert Binary Tree to DLL,GFG,Tree,Medium,Convert binary tree to doubly linked list
+Lowest Common Ancestor BST,#235,Tree,Easy,Find LCA in binary search tree
+Reverse Linked List in Groups,#25,Linked List,Hard,Reverse nodes in k-group
+Stack with Min Operation,#155,Stack/Design,Easy,Design stack with O(1) min operation
+Maximum Sum Non-Adjacent Elements,#198,Dynamic Programming,Medium,Find max sum with no adjacent elements
